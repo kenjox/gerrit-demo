@@ -1,0 +1,11 @@
+{
+  "name": "refaai-api",
+  "version": "1.0.0",
+  "description": "Building a show case api for sales department.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kennedy",
+  "license": "ISC"
+}
